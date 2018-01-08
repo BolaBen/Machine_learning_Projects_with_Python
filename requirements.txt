@@ -1,0 +1,10 @@
+Pandas==0.21.1
+os
+time
+datetime==4.2
+time
+matplotlib==2.1.1
+numpy==1.13.3
+Quandl==3.2.1
+scikit-learn==0.19.1
+sklearn
