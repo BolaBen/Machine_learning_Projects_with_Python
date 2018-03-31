@@ -15,4 +15,4 @@
 
 
 # Training Machine Learning Algorithms for Classification
-### Gathered from the book - python machine learning_chap_2 - code examples by Sebastian Raschka
+** Gathered from the book - python machine learning_chap_2 - code examples by Sebastian Raschka
