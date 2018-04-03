@@ -1,4 +1,4 @@
-# Python Project For Investing In Stocks
+## Python Project For Investing In Stocks
 
 ** Have you ever thought of investing in stocks but don't know where to start, or you probably have consulted a stock broker but still not convinced. You just so curious you really wanna know where to put your money, you so sure you really wanna know the skeletons of the stock market plaforms of interest to you....cool!. **
 
@@ -14,7 +14,7 @@
 
 
 
-# Training Machine Learning Algorithms for Classification
+## Training Machine Learning Algorithms for Classification
   Gathered from the book - python machine learning_chap_2 - code examples by Sebastian Raschka
 
 
