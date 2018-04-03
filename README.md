@@ -11,3 +11,8 @@
 ** Each file with it's description and every indented block of code has is commented out for illustration purpose  **
 
 ** The csv file named "YAHOO-INDEX_GSPC" is the yahoo index S & P 500 data over a long period of time that will be compared with the file above after parsing and extracting features. **
+
+
+
+# Training Machine Learning Algorithms for Classification
+  Gathered from the book - python machine learning_chap_2 - code examples by Sebastian Raschka
