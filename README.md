@@ -16,3 +16,9 @@
 
 # Training Machine Learning Algorithms for Classification
   Gathered from the book - python machine learning_chap_2 - code examples by Sebastian Raschka
+
+
+## ML_case_studies_py_codes_and_Numpy_exercises
+  Five Case Studies for the Data Scientist
+  —
+  Danish Haroon
